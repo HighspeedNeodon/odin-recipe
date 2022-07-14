@@ -1,0 +1,11 @@
+
+img {
+    height: auto;
+    width: 500px;
+}
+h1,h2{
+    color: yellow; background-color: yellowgreen;
+}
+.subsection {
+    color: red;
+}
